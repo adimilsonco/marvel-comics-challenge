@@ -13,7 +13,7 @@
 - [ ] Criar uma tela para visualizar heróis e seus quadrinhos
 - [ ] Alterar título na aba do navegador de acordo com a página
 - [ ] Ter um menu superior em todas as telas
-- [ ] Consumir API da Marvel
+- [ ] Consumir API da Marvel https://developer.marvel.com/
 - [ ] Utilizar cookies para salvar informações dos quadrinhos
 - [ ] Separar quadrinhos por herói
 - [ ] Ordenar heróis por nome
